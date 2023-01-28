@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "724789402921",
+    "project_id": "discofun-7a8dc",
+    "storage_bucket": "discofun-7a8dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724789402921:android:7c7db1c17e397eea65ab38",
+        "android_client_info": {
+          "package_name": "in.disco_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724789402921-lu4k4h1o1qq00o38lnejf3278fbuqhn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4YKGPqvHTMBAmI2kM0YJm8UIASfhvIkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724789402921-lu4k4h1o1qq00o38lnejf3278fbuqhn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
